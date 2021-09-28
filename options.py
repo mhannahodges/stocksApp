@@ -3,7 +3,7 @@ import re
 from datetime import datetime
 
 
-ticker = "TSLA"
+ticker = "AAPL"
 #ticker = input("Enter the ticket:")
 
 
